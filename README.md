@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a simple **Todo App** that integrates with an API to manage todos. The app supports loading, adding, deleting, updating, and filtering todos while ensuring a smooth user experience.
+This is a **Todo App** that integrates with an API to manage todos. The app supports loading, adding, deleting, updating, and filtering todos while ensuring a smooth user experience.
 
 ## 🌐 **Demo**
 
@@ -84,13 +84,9 @@ Follow these steps to set up the project locally:
 2. **Install dependencies**
    ```bash
    npm install
-# or
-   yarn install
 3. **Run the project locally**
    ```bash
    npm start
-# or
-   yarn start
 
 
-## Thank you for checking out the React Todo App with API!
+## **Thank you for checking out the React Todo App with API!**
